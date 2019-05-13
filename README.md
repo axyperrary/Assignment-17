@@ -5,3 +5,4 @@
 - How to run: Run the HTML web page in a browser.
 - Deployed app: Not installed.
 - Screenshots:
+![](static/images/5-Advanced.png)
